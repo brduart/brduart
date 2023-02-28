@@ -2,9 +2,9 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br-duarte/)
 
-[![brduart GitHub stats](https://github-readme-stats.vercel.app/api?username=brduart&theme=tokyonight)](https://github.com/brduart/github-readme-stats)
+![brduart GitHub stats](https://github-readme-stats.vercel.app/api?username=brduart&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brduart&layout=default&theme=dark)](https://github.com/brduart/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brduart&layout=compact)](https://github.com/brduart/github-readme-stats)
+
 
 
 
