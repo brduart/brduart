@@ -5,7 +5,6 @@
 👩🏻‍🎓 Studied ADS in Estacio-BR<br/>
 💭 Learning about Backend and APIS!<br/>
 
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,4 +22,3 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=brduart&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
