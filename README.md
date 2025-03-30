@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://github.com/brduart">Bruno</a>!</h1>
 
 <p align="center">
-    <i>Desenvolvedor apaixonado por tecnologia, inovação e soluções criativas.</i>
+    <i>Tecnologia, inovação e soluções criativas.</i>
 </p>
 
 ### 🌐 Como me Encontrar
