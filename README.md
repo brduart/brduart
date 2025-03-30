@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/br-duarte/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
-  <a href="https://www.youtube.com/@brunodevbr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
     <a href="mailto:brunoduartdev11@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
     </a>
