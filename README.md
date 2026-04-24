@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://github.com/brduart">Bruno</a>!</h1>
 
-<p align="center">
-    <i>Tecnologia, inovação e soluções criativas.</i>
-</p>
-
 ### 🌐 Como me Encontrar
 
 <div align="center">
@@ -21,8 +17,6 @@
 ### 🧑‍💻 Sobre Mim
 
 🚀 Sou um desenvolvedor que adora criar projetos inovadores e explorar novas tecnologias. Meu foco está em desenvolver soluções modernas e eficientes para resolver problemas do dia a dia. Sempre estou em busca de aprender e compartilhar conhecimento.
-
-🌱 **Atualmente explorando:** Spring com Java, e desenvolvimento de SaaS.
 
 ### 🚀 Tecnologias e Ferramentas
 
