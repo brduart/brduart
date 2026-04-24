@@ -42,21 +42,9 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brduart&show_icons=true&hide_title=true&hide_border=true&theme=radical&bg_color=00000000&text_color=3498db" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brduart&layout=compact&hide_border=true&theme=radical&bg_color=00000000&text_color=3498db" alt="Top Languages" />
-</div>
-
-### 🔥 Projetos em Destaque
-
-| Projeto | Descrição |
-| --- | --- |
-| [🎮 **Express API Boilerplate**](https://github.com/brduart/express__api__boilerplate) | Boilerplate para desenvolvimento de API's. |
-
-
----
+</br>
+</br>
+</br>
 
 <div align="center">
     ⭐️ <i>Explore meus projetos e sinta-se à vontade para deixar suas estrelas ⭐️. Estou sempre aberto a novas ideias e colaborações!</i> 🚀
